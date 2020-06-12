@@ -1,0 +1,8 @@
+// {
+// 	"mongoURI": "mongodb+srv://shafi_007:muhammed1@cluster0-ainaq.mongodb.net/Registration?retryWrites=true&w=majority"
+// }
+
+{
+	"mongoURI": "mongodb://localhost:27017/Registration"
+}
+
